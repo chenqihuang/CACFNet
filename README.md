@@ -5,8 +5,8 @@ This project is a pytorch implementation of CACF, aimed to make the CACF filter 
 During our implementing, we referred the implmentations, [DCFNet](https://arxiv.org/pdf/1704.04057.pdf) by Qiang Wang and the sorce code from the [CACF](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx).
 
 ## What we are doing and going to do
-[X] track with [got10k](https://github.com/got-10k/toolkit) toolkit.
-[ ] train from scratch.
+- [X] track with [got10k](https://github.com/got-10k/toolkit) toolkit.
+- [ ] train from scratch.
 
 ## Paper
 1 DCFNet: Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). [paper](https://arxiv.org/pdf/1704.04057.pdf)[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)
