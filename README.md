@@ -1,8 +1,8 @@
 # CACFNet
 ## Introduction
-This project is a pyhon/pytorch implementation of CACF, aimed to make the CACF filter a differentiable layer to learn the convolutional features and perform the correlation tracking process simultaneously.
+This project is a pytorch implementation of CACF, aimed to make the CACF filter as a differentiable layer to learn the convolutional features and perform the correlation tracking process simultaneously.
 
-During our implementing, we referred the implmentations, [DCFNet](https://arxiv.org/pdf/1704.04057.pdf) by Qiang Wang and the sorce code from the [CACF](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx).
+I referred the implmentations, [DCFNet](https://arxiv.org/pdf/1704.04057.pdf) by Qiang Wang and the sorce code from the [CACF](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx).
 
 ## What we are doing and going to do
 - [X] track with [got10k](https://github.com/got-10k/toolkit) toolkit.
