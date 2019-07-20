@@ -6,7 +6,7 @@ I referred the implmentations, [DCFNet](https://arxiv.org/pdf/1704.04057.pdf) by
 
 ## What we are doing and going to do
 - [X] track with [got10k](https://github.com/got-10k/toolkit) toolkit.
-- [ ] train from scratch.
+- [X] train from scratch.
 - [ ] the result of the CACFNet on the benchmark.
 
 ## Paper
