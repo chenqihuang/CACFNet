@@ -13,7 +13,3 @@ I referred the implmentations, [DCFNet](https://arxiv.org/pdf/1704.04057.pdf) by
 1 DCFNet: Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). [[paper](https://arxiv.org/pdf/1704.04057.pdf)] [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)].
 
 2 CACF: Matthias Mueller, Neil Smith, Bernard Ghanem. "Context-Aware Correlation Filter Tracking." CVPR (2017 oral).[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Mueller_Context-Aware_Correlation_Filter_CVPR_2017_paper.pdf)] [[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Mueller_Context-Aware_Correlation_Filter_2017_CVPR_supplemental.zip)]      [[project](https://ivul.kaust.edu.sa/Pages/pub-ca-cf-tracking.aspx)[code](https://github.com/thias15/Context-Aware-CF-Tracking)].
-
-## Track
-
-## Train
